@@ -1,0 +1,979 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,PER,Peru,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2020,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2020,true,,,,,,,,,,,,,1,,,,,,1,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2020,true,,,,,,,,,,,,,1456968,,,,,,"1,456,968",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2020,true,,,,,,,,,,,,,1610390,,,,,,"1,610,390",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2020,true,,,,,,,,,,,,,1851734,,,,,,"1,851,734",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2020,true,,,,,,,,,,,,,1979599,,,,,,"1,979,599",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2020,true,,,,,,,,,,,,,18315149,,,,,,"18,315,149",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2020,true,,,,,,,,,,,,,213116,,,,,,"213,116",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2020,true,,,,,,,,,,,,,23254,,,,,,"23,254",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2020,true,,,,,,,,,,,,,264,,,,,,264,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2020,true,,,,,,,,,,,,,3,,,,,,3,,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2020,true,,,,,,,,,,,,,3752,,,,,,"3,752",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2020,true,,,,,,,,,,,,,351823,,,,,,"351,823",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2020,true,,,,,,,,,,,,,4212880,,,,,,"4,212,880",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2020,true,,,,,,,,,,,,,400120,,,,,,"400,120",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2020,true,,,,,,,,,,,,,47813,,,,,,"47,813",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2020,true,,,,,,,,,,,,,550759,,,,,,"550,759",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2020,true,,,,,,,,,,,,,718708,,,,,,"718,708",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2020,true,,,,,,,,,,,,,9300,,,,,,"9,300",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2020,true,,,,,,,,,,,,,90240,,,,,,"90,240",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2020,true,,,,,,,,,,,,,965136,,,,,,"965,136",,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,AGO,Angola,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,COL,Colombia,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2020,true,,,,,,,,,,,,,,,,,,,No data,827,,EN,2021-07-22T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,PER,Peru,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2019,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2019,false,,,,,,,,,,,,,1,,,,,,1,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2019,false,,,,,,,,,,,,,1078744,,,,,,"1,078,744",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2019,false,,,,,,,,,,,,,1092,,,,,,"1,092",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2019,false,,,,,,,,,,,,,1180733,,,,,,"1,180,733",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2019,false,,,,,,,,,,,,,1290643,,,,,,"1,290,643",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2019,false,,,,,,,,,,,,,1486130,,,,,,"1,486,130",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2019,false,,,,,,,,,,,,,1973090,,,,,,"1,973,090",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2019,false,,,,,,,,,,,,,1984935,,,,,,"1,984,935",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2019,false,,,,,,,,,,,,,128636,,,,,,"128,636",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2019,false,,,,,,,,,,,,,14,,,,,,14,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2019,false,,,,,,,,,,,,,179073,,,,,,"179,073",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2019,false,,,,,,,,,,,,,196,,,,,,196,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2019,false,,,,,,,,,,,,,2250428,,,,,,"2,250,428",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2019,false,,,,,,,,,,,,,224,,,,,,224,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2019,false,,,,,,,,,,,,,285256,,,,,,"285,256",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2019,false,,,,,,,,,,,,,3149388,,,,,,"3,149,388",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2019,false,,,,,,,,,,,,,3532088,,,,,,"3,532,088",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2019,false,,,,,,,,,,,,,340807,,,,,,"340,807",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2019,false,,,,,,,,,,,,,4696,,,,,,"4,696",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,AGO,Angola,Year,2019,false,,,,,,,,,,,,,42,,,,,,42,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2019,false,,,,,,,,,,,,,5771,,,,,,"5,771",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2019,false,,,,,,,,,,,,,551,,,,,,551,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2019,false,,,,,,,,,,,,,58906742,,,,,,"58,906,742",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2019,false,,,,,,,,,,,,,64,,,,,,64,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2019,false,,,,,,,,,,,,,7137971,,,,,,"7,137,971",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2019,false,,,,,,,,,,,,,9300261,,,,,,"9,300,261",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2019,false,,,,,,,,,,,,,91262,,,,,,"91,262",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2019,false,,,,,,,,,,,,,928161,,,,,,"928,161",,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2019,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2019,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,COL,Colombia,Year,2019,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2019,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2019,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2019,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2019,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2019,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2019,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,PER,Peru,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2018,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2018,false,,,,,,,,,,,,,1138230,,,,,,"1,138,230",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2018,false,,,,,,,,,,,,,1251433,,,,,,"1,251,433",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2018,false,,,,,,,,,,,,,1425,,,,,,"1,425",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2018,false,,,,,,,,,,,,,1462100,,,,,,"1,462,100",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2018,false,,,,,,,,,,,,,1669663,,,,,,"1,669,663",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2018,false,,,,,,,,,,,,,1771607,,,,,,"1,771,607",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2018,false,,,,,,,,,,,,,1979006,,,,,,"1,979,006",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2018,false,,,,,,,,,,,,,11,,,,,,11,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2018,false,,,,,,,,,,,,,11329581,,,,,,"11,329,581",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2018,false,,,,,,,,,,,,,13,,,,,,13,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2018,false,,,,,,,,,,,,,157,,,,,,157,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2018,false,,,,,,,,,,,,,2122507,,,,,,"2,122,507",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,COL,Colombia,Year,2018,false,,,,,,,,,,,,,22562,,,,,,"22,562",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2018,false,,,,,,,,,,,,,22657,,,,,,"22,657",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2018,false,,,,,,,,,,,,,29,,,,,,29,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2018,false,,,,,,,,,,,,,3430,,,,,,"3,430",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2018,false,,,,,,,,,,,,,308602,,,,,,"308,602",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2018,false,,,,,,,,,,,,,317948,,,,,,"317,948",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,AGO,Angola,Year,2018,false,,,,,,,,,,,,,36,,,,,,36,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2018,false,,,,,,,,,,,,,361675,,,,,,"361,675",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2018,false,,,,,,,,,,,,,398493,,,,,,"398,493",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2018,false,,,,,,,,,,,,,42790,,,,,,"42,790",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2018,false,,,,,,,,,,,,,470696,,,,,,"470,696",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2018,false,,,,,,,,,,,,,50797,,,,,,"50,797",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2018,false,,,,,,,,,,,,,53,,,,,,53,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2018,false,,,,,,,,,,,,,6459,,,,,,"6,459",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2018,false,,,,,,,,,,,,,62658840,,,,,,"62,658,840",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2018,false,,,,,,,,,,,,,672970,,,,,,"672,970",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2018,false,,,,,,,,,,,,,91888,,,,,,"91,888",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2018,false,,,,,,,,,,,,,96,,,,,,96,,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2018,false,,,,,,,,,,,,,967431,,,,,,"967,431",,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2018,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2018,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2018,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2018,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2018,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2018,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2018,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2019-07-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,PER,Peru,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2017,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2017,false,,,,,,,,,,,,,1027046,,,,,,"1,027,046",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2017,false,,,,,,,,,,,,,1058940,,,,,,"1,058,940",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2017,false,,,,,,,,,,,,,1083924,,,,,,"1,083,924",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2017,false,,,,,,,,,,,,,1216356,,,,,,"1,216,356",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2017,false,,,,,,,,,,,,,1451130,,,,,,"1,451,130",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2017,false,,,,,,,,,,,,,104217,,,,,,"104,217",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2017,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2017,false,,,,,,,,,,,,,2151297,,,,,,"2,151,297",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2017,false,,,,,,,,,,,,,2443261,,,,,,"2,443,261",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2017,false,,,,,,,,,,,,,2651671,,,,,,"2,651,671",,,EN,2018-06-27T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2017,false,,,,,,,,,,,,,2795580,,,,,,"2,795,580",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,COL,Colombia,Year,2017,false,,,,,,,,,,,,,23629,,,,,,"23,629",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2017,false,,,,,,,,,,,,,3229420,,,,,,"3,229,420",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2017,false,,,,,,,,,,,,,3712,,,,,,"3,712",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2017,false,,,,,,,,,,,,,32150,,,,,,"32,150",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2017,false,,,,,,,,,,,,,347855,,,,,,"347,855",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2017,false,,,,,,,,,,,,,395962,,,,,,"395,962",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2017,false,,,,,,,,,,,,,4451654,,,,,,"4,451,654",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2017,false,,,,,,,,,,,,,4614,,,,,,"4,614",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2017,false,,,,,,,,,,,,,485774,,,,,,"485,774",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2017,false,,,,,,,,,,,,,49870966,,,,,,"49,870,966",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2017,false,,,,,,,,,,,,,521,,,,,,521,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2017,false,,,,,,,,,,,,,6034667,,,,,,"6,034,667",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,AGO,Angola,Year,2017,false,,,,,,,,,,,,,72,,,,,,72,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2017,false,,,,,,,,,,,,,74,,,,,,74,,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2017,false,,,,,,,,,,,,,743984,,,,,,"743,984",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2017,false,,,,,,,,,,,,,823749,,,,,,"823,749",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2017,false,,,,,,,,,,,,,87402,,,,,,"87,402",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2017,false,,,,,,,,,,,,,9202,,,,,,"9,202",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2017,false,,,,,,,,,,,,,997442,,,,,,"997,442",,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2017,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2017,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2017,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2017,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2017,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2017,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2017,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2018-06-18T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,PER,Peru,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2016,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2016,false,,,,,,,,,,,,,1052035,,,,,,"1,052,035",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2016,false,,,,,,,,,,,,,1181863,,,,,,"1,181,863",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2016,false,,,,,,,,,,,,,1792097,,,,,,"1,792,097",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2016,false,,,,,,,,,,,,,106,,,,,,106,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2016,false,,,,,,,,,,,,,11369,,,,,,"11,369",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2016,false,,,,,,,,,,,,,115503,,,,,,"115,503",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2016,false,,,,,,,,,,,,,175088,,,,,,"175,088",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2016,false,,,,,,,,,,,,,2017176,,,,,,"2,017,176",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2016,false,,,,,,,,,,,,,2310218,,,,,,"2,310,218",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2016,false,,,,,,,,,,,,,2859785,,,,,,"2,859,785",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2016,false,,,,,,,,,,,,,2883632,,,,,,"2,883,632",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2016,false,,,,,,,,,,,,,2939906,,,,,,"2,939,906",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2016,false,,,,,,,,,,,,,265836,,,,,,"265,836",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2016,false,,,,,,,,,,,,,269102,,,,,,"269,102",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2016,false,,,,,,,,,,,,,285018,,,,,,"285,018",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2016,false,,,,,,,,,,,,,3161622,,,,,,"3,161,622",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2016,false,,,,,,,,,,,,,324441,,,,,,"324,441",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2016,false,,,,,,,,,,,,,355938,,,,,,"355,938",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2016,false,,,,,,,,,,,,,4,,,,,,4,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2016,false,,,,,,,,,,,,,4385808,,,,,,"4,385,808",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2016,false,,,,,,,,,,,,,412702,,,,,,"412,702",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2016,false,,,,,,,,,,,,,421376,,,,,,"421,376",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2016,false,,,,,,,,,,,,,424989,,,,,,"424,989",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2016,false,,,,,,,,,,,,,43501,,,,,,"43,501",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2016,false,,,,,,,,,,,,,47219584,,,,,,"47,219,584",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2016,false,,,,,,,,,,,,,5,,,,,,5,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2016,false,,,,,,,,,,,,,667318,,,,,,"667,318",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2016,false,,,,,,,,,,,,,7976993,,,,,,"7,976,993",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2016,false,,,,,,,,,,,,,705896,,,,,,"705,896",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,COL,Colombia,Year,2016,false,,,,,,,,,,,,,792,,,,,,792,,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,AGO,Angola,Year,2016,false,,,,,,,,,,,,,85,,,,,,85,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2016,false,,,,,,,,,,,,,945695,,,,,,"945,695",,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2016,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2016,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2016,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2016,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2016,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2016,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2016,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2016,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2016,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2016,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2017-06-28T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2015,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2015,false,,,,,,,,,,,,,1157426,,,,,,"1,157,426",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2015,false,,,,,,,,,,,,,1572893,,,,,,"1,572,893",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2015,false,,,,,,,,,,,,,1575932,,,,,,"1,575,932",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2015,false,,,,,,,,,,,,,1611875,,,,,,"1,611,875",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2015,false,,,,,,,,,,,,,1888301,,,,,,"1,888,301",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2015,false,,,,,,,,,,,,,128647,,,,,,"128,647",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,COL,Colombia,Year,2015,false,,,,,,,,,,,,,13348,,,,,,"13,348",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2015,false,,,,,,,,,,,,,133405,,,,,,"133,405",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2015,false,,,,,,,,,,,,,14,,,,,,14,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,AGO,Angola,Year,2015,false,,,,,,,,,,,,,157,,,,,,157,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2015,false,,,,,,,,,,,,,169073,,,,,,"169,073",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2015,false,,,,,,,,,,,,,19,,,,,,19,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2015,false,,,,,,,,,,,,,2736805,,,,,,"2,736,805",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2015,false,,,,,,,,,,,,,238562,,,,,,"238,562",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2015,false,,,,,,,,,,,,,258669,,,,,,"258,669",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2015,false,,,,,,,,,,,,,26635,,,,,,"26,635",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2015,false,,,,,,,,,,,,,3815042,,,,,,"3,815,042",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2015,false,,,,,,,,,,,,,32624948,,,,,,"32,624,948",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2015,false,,,,,,,,,,,,,429,,,,,,429,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2015,false,,,,,,,,,,,,,44026,,,,,,"44,026",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2015,false,,,,,,,,,,,,,5739369,,,,,,"5,739,369",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2015,false,,,,,,,,,,,,,61063,,,,,,"61,063",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2015,false,,,,,,,,,,,,,631948,,,,,,"631,948",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2015,false,,,,,,,,,,,,,705245,,,,,,"705,245",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2015,false,,,,,,,,,,,,,72,,,,,,72,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2015,false,,,,,,,,,,,,,8550,,,,,,"8,550",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2015,false,,,,,,,,,,,,,928490,,,,,,"928,490",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,PER,Peru,Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2015,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2014,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2014,false,,,,,,,,,,,,,1033,,,,,,"1,033",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2014,false,,,,,,,,,,,,,1042773,,,,,,"1,042,773",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2014,false,,,,,,,,,,,,,1093486,,,,,,"1,093,486",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2014,false,,,,,,,,,,,,,1147878,,,,,,"1,147,878",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2014,false,,,,,,,,,,,,,1471025,,,,,,"1,471,025",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2014,false,,,,,,,,,,,,,1875527,,,,,,"1,875,527",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2014,false,,,,,,,,,,,,,1987575,,,,,,"1,987,575",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,COL,Colombia,Year,2014,false,,,,,,,,,,,,,13813,,,,,,"13,813",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2014,false,,,,,,,,,,,,,169325,,,,,,"169,325",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2014,false,,,,,,,,,,,,,17858012,,,,,,"17,858,012",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2014,false,,,,,,,,,,,,,183868,,,,,,"183,868",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2014,false,,,,,,,,,,,,,185,,,,,,185,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2014,false,,,,,,,,,,,,,2743081,,,,,,"2,743,081",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2014,false,,,,,,,,,,,,,2890926,,,,,,"2,890,926",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2014,false,,,,,,,,,,,,,203,,,,,,203,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2014,false,,,,,,,,,,,,,204656,,,,,,"204,656",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2014,false,,,,,,,,,,,,,31,,,,,,31,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2014,false,,,,,,,,,,,,,376,,,,,,376,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2014,false,,,,,,,,,,,,,392870,,,,,,"392,870",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2014,false,,,,,,,,,,,,,4554138,,,,,,"4,554,138",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2014,false,,,,,,,,,,,,,424580,,,,,,"424,580",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2014,false,,,,,,,,,,,,,46917,,,,,,"46,917",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2014,false,,,,,,,,,,,,,5219992,,,,,,"5,219,992",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2014,false,,,,,,,,,,,,,516,,,,,,516,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2014,false,,,,,,,,,,,,,6935625,,,,,,"6,935,625",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2014,false,,,,,,,,,,,,,63,,,,,,63,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2014,false,,,,,,,,,,,,,675582,,,,,,"675,582",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2014,false,,,,,,,,,,,,,9785,,,,,,"9,785",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,AGO,Angola,Year,2014,false,,,,,,,,,,,,,99,,,,,,99,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2014,false,,,,,,,,,,,,,99134,,,,,,"99,134",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2014,false,,,,,,,,,,,,,992,,,,,,992,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2014,false,,,,,,,,,,,,,992255,,,,,,"992,255",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2014,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2014,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2014,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2014,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2014,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2014,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2014,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2014,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,PER,Peru,Year,2014,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2014,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2013,false,,,,,,,,,,,,,1352084,,,,,,"1,352,084",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2013,false,,,,,,,,,,,,,1418244,,,,,,"1,418,244",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2013,false,,,,,,,,,,,,,1656651,,,,,,"1,656,651",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2013,false,,,,,,,,,,,,,1805596,,,,,,"1,805,596",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,COL,Colombia,Year,2013,false,,,,,,,,,,,,,14152,,,,,,"14,152",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2013,false,,,,,,,,,,,,,140205,,,,,,"140,205",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2013,false,,,,,,,,,,,,,164402,,,,,,"164,402",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2013,false,,,,,,,,,,,,,2423890,,,,,,"2,423,890",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2013,false,,,,,,,,,,,,,212949,,,,,,"212,949",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2013,false,,,,,,,,,,,,,23727842,,,,,,"23,727,842",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2013,false,,,,,,,,,,,,,370007,,,,,,"370,007",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2013,false,,,,,,,,,,,,,421996,,,,,,"421,996",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2013,false,,,,,,,,,,,,,448324,,,,,,"448,324",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2013,false,,,,,,,,,,,,,475,,,,,,475,,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2013,false,,,,,,,,,,,,,5383105,,,,,,"5,383,105",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2013,false,,,,,,,,,,,,,5900635,,,,,,"5,900,635",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2013,false,,,,,,,,,,,,,6981906,,,,,,"6,981,906",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,AGO,Angola,Year,2013,false,,,,,,,,,,,,,63,,,,,,63,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2013,false,,,,,,,,,,,,,66594,,,,,,"66,594",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2013,false,,,,,,,,,,,,,763042,,,,,,"763,042",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2013,false,,,,,,,,,,,,,825658,,,,,,"825,658",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2013,false,,,,,,,,,,,,,831993,,,,,,"831,993",,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,PER,Peru,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2013,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2012,false,,,,,,,,,,,,,1031826,,,,,,"1,031,826",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2012,false,,,,,,,,,,,,,1171578,,,,,,"1,171,578",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2012,false,,,,,,,,,,,,,1497733,,,,,,"1,497,733",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2012,false,,,,,,,,,,,,,1977781,,,,,,"1,977,781",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2012,false,,,,,,,,,,,,,100000,,,,,,"100,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2012,false,,,,,,,,,,,,,161884,,,,,,"161,884",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2012,false,,,,,,,,,,,,,18492639,,,,,,"18,492,639",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,AGO,Angola,Year,2012,false,,,,,,,,,,,,,197,,,,,,197,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2012,false,,,,,,,,,,,,,2498155,,,,,,"2,498,155",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2012,false,,,,,,,,,,,,,20000,,,,,,"20,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2012,false,,,,,,,,,,,,,20000,,,,,,"20,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2012,false,,,,,,,,,,,,,203,,,,,,203,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2012,false,,,,,,,,,,,,,25000,,,,,,"25,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2012,false,,,,,,,,,,,,,3221,,,,,,"3,221",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2012,false,,,,,,,,,,,,,3421248,,,,,,"3,421,248",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2012,false,,,,,,,,,,,,,323708,,,,,,"323,708",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2012,false,,,,,,,,,,,,,335791,,,,,,"335,791",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2012,false,,,,,,,,,,,,,4000,,,,,,"4,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2012,false,,,,,,,,,,,,,4439073,,,,,,"4,439,073",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2012,false,,,,,,,,,,,,,4990,,,,,,"4,990",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2012,false,,,,,,,,,,,,,400000,,,,,,"400,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2012,false,,,,,,,,,,,,,413449,,,,,,"413,449",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2012,false,,,,,,,,,,,,,5150695,,,,,,"5,150,695",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2012,false,,,,,,,,,,,,,5209970,,,,,,"5,209,970",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2012,false,,,,,,,,,,,,,529000,,,,,,"529,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2012,false,,,,,,,,,,,,,565857,,,,,,"565,857",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2012,false,,,,,,,,,,,,,6204,,,,,,"6,204",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2012,false,,,,,,,,,,,,,75890,,,,,,"75,890",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2012,false,,,,,,,,,,,,,906132,,,,,,"906,132",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2012,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2011,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2011,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2011,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2011,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2011,false,,,,,,,,,,,,,1201816,,,,,,"1,201,816",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2011,false,,,,,,,,,,,,,1385403,,,,,,"1,385,403",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2011,false,,,,,,,,,,,,,139,,,,,,139,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,AGO,Angola,Year,2011,false,,,,,,,,,,,,,144,,,,,,144,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2011,false,,,,,,,,,,,,,19604106,,,,,,"19,604,106",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2011,false,,,,,,,,,,,,,2297026,,,,,,"2,297,026",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2011,false,,,,,,,,,,,,,2802109,,,,,,"2,802,109",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2011,false,,,,,,,,,,,,,244894,,,,,,"244,894",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2011,false,,,,,,,,,,,,,3175,,,,,,"3,175",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2011,false,,,,,,,,,,,,,319641,,,,,,"319,641",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2011,false,,,,,,,,,,,,,396781,,,,,,"396,781",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2011,false,,,,,,,,,,,,,4125116,,,,,,"4,125,116",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2011,false,,,,,,,,,,,,,4699418,,,,,,"4,699,418",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2011,false,,,,,,,,,,,,,443377,,,,,,"443,377",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2011,false,,,,,,,,,,,,,5077371,,,,,,"5,077,371",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2011,false,,,,,,,,,,,,,5312,,,,,,"5,312",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2011,false,,,,,,,,,,,,,547332,,,,,,"547,332",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2011,false,,,,,,,,,,,,,653216,,,,,,"653,216",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2011,false,,,,,,,,,,,,,732063,,,,,,"732,063",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2011,false,,,,,,,,,,,,,939110,,,,,,"939,110",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2011,false,,,,,,,,,,,,,961522,,,,,,"961,522",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2011,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2010,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2010,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2010,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2010,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2010,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2010,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2010,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2010,false,,,,,,,,,,,,,1100197,,,,,,"1,100,197",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2010,false,,,,,,,,,,,,,1484730,,,,,,"1,484,730",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2010,false,,,,,,,,,,,,,1956440,,,,,,"1,956,440",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2010,false,,,,,,,,,,,,,12000,,,,,,"12,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2010,false,,,,,,,,,,,,,13798,,,,,,"13,798",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2010,false,,,,,,,,,,,,,18715,,,,,,"18,715",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2010,false,,,,,,,,,,,,,18947985,,,,,,"18,947,985",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2010,false,,,,,,,,,,,,,2893060,,,,,,"2,893,060",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2010,false,,,,,,,,,,,,,2970522,,,,,,"2,970,522",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2010,false,,,,,,,,,,,,,23240,,,,,,"23,240",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2010,false,,,,,,,,,,,,,230000,,,,,,"230,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2010,false,,,,,,,,,,,,,3145826,,,,,,"3,145,826",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2010,false,,,,,,,,,,,,,3539260,,,,,,"3,539,260",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2010,false,,,,,,,,,,,,,303037,,,,,,"303,037",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2010,false,,,,,,,,,,,,,308278,,,,,,"308,278",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2010,false,,,,,,,,,,,,,459902,,,,,,"459,902",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,AGO,Angola,Year,2010,false,,,,,,,,,,,,,49,,,,,,49,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2010,false,,,,,,,,,,,,,49594,,,,,,"49,594",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2010,false,,,,,,,,,,,,,5000,,,,,,"5,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2010,false,,,,,,,,,,,,,50000,,,,,,"50,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2010,false,,,,,,,,,,,,,77933,,,,,,"77,933",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2010,false,,,,,,,,,,,,,875,,,,,,875,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2010,false,,,,,,,,,,,,,954864,,,,,,"954,864",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2010,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2009,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2009,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2009,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2009,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2009,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2009,false,,,,,,,,,,,,,10000,,,,,,"10,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2009,false,,,,,,,,,,,,,11210,,,,,,"11,210",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2009,false,,,,,,,,,,,,,110000,,,,,,"110,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2009,false,,,,,,,,,,,,,111969,,,,,,"111,969",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2009,false,,,,,,,,,,,,,15000,,,,,,"15,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2009,false,,,,,,,,,,,,,15695222,,,,,,"15,695,222",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2009,false,,,,,,,,,,,,,20504,,,,,,"20,504",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2009,false,,,,,,,,,,,,,3030544,,,,,,"3,030,544",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2009,false,,,,,,,,,,,,,3240487,,,,,,"3,240,487",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2009,false,,,,,,,,,,,,,3357551,,,,,,"3,357,551",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2009,false,,,,,,,,,,,,,3405260,,,,,,"3,405,260",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2009,false,,,,,,,,,,,,,3856,,,,,,"3,856",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2009,false,,,,,,,,,,,,,316744,,,,,,"316,744",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2009,false,,,,,,,,,,,,,45500,,,,,,"45,500",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2009,false,,,,,,,,,,,,,6032,,,,,,"6,032",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2009,false,,,,,,,,,,,,,6416637,,,,,,"6,416,637",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2009,false,,,,,,,,,,,,,60000,,,,,,"60,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2009,false,,,,,,,,,,,,,685192,,,,,,"685,192",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,AGO,Angola,Year,2009,false,,,,,,,,,,,,,69,,,,,,69,,,EN,2020-07-20T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2009,false,,,,,,,,,,,,,7526076,,,,,,"7,526,076",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2009,false,,,,,,,,,,,,,798261,,,,,,"798,261",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2009,false,,,,,,,,,,,,,82311,,,,,,"82,311",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2009,false,,,,,,,,,,,,,875,,,,,,875,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2009,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2008,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2008,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2008,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2008,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2008,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2008,false,,,,,,,,,,,,,1364830,,,,,,"1,364,830",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2008,false,,,,,,,,,,,,,14832830,,,,,,"14,832,830",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2008,false,,,,,,,,,,,,,147122,,,,,,"147,122",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2008,false,,,,,,,,,,,,,151135,,,,,,"151,135",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2008,false,,,,,,,,,,,,,2148846,,,,,,"2,148,846",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2008,false,,,,,,,,,,,,,254330,,,,,,"254,330",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2008,false,,,,,,,,,,,,,3197497,,,,,,"3,197,497",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2008,false,,,,,,,,,,,,,40000,,,,,,"40,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2008,false,,,,,,,,,,,,,47000,,,,,,"47,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2008,false,,,,,,,,,,,,,5000,,,,,,"5,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2008,false,,,,,,,,,,,,,5330,,,,,,"5,330",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2008,false,,,,,,,,,,,,,5543624,,,,,,"5,543,624",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2008,false,,,,,,,,,,,,,5709,,,,,,"5,709",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2008,false,,,,,,,,,,,,,5816989,,,,,,"5,816,989",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2008,false,,,,,,,,,,,,,70583,,,,,,"70,583",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2008,false,,,,,,,,,,,,,729642,,,,,,"729,642",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2008,false,,,,,,,,,,,,,765,,,,,,765,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2008,false,,,,,,,,,,,,,826015,,,,,,"826,015",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2008,false,,,,,,,,,,,,,966404,,,,,,"966,404",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2008,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2007,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2007,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2007,false,,,,,,,,,,,,,1053174,,,,,,"1,053,174",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2007,false,,,,,,,,,,,,,1364817,,,,,,"1,364,817",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2007,false,,,,,,,,,,,,,1400,,,,,,"1,400",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2007,false,,,,,,,,,,,,,1767877,,,,,,"1,767,877",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2007,false,,,,,,,,,,,,,143658,,,,,,"143,658",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2007,false,,,,,,,,,,,,,236200,,,,,,"236,200",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2007,false,,,,,,,,,,,,,449585,,,,,,"449,585",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2007,false,,,,,,,,,,,,,476867,,,,,,"476,867",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2007,false,,,,,,,,,,,,,5000,,,,,,"5,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2007,false,,,,,,,,,,,,,50000,,,,,,"50,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2007,false,,,,,,,,,,,,,6044714,,,,,,"6,044,714",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2007,false,,,,,,,,,,,,,6050896,,,,,,"6,050,896",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2007,false,,,,,,,,,,,,,6380163,,,,,,"6,380,163",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2007,false,,,,,,,,,,,,,682786,,,,,,"682,786",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2007,false,,,,,,,,,,,,,8282,,,,,,"8,282",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2007,false,,,,,,,,,,,,,800000,,,,,,"800,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2007,false,,,,,,,,,,,,,899580,,,,,,"899,580",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2007,false,,,,,,,,,,,,,9000,,,,,,"9,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2007,false,,,,,,,,,,,,,90000,,,,,,"90,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2007,false,,,,,,,,,,,,,944356,,,,,,"944,356",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2007,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2006,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2006,false,,,,,,,,,,,,,1169817,,,,,,"1,169,817",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2006,false,,,,,,,,,,,,,117000,,,,,,"117,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2006,false,,,,,,,,,,,,,15798,,,,,,"15,798",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2006,false,,,,,,,,,,,,,2003150,,,,,,"2,003,150",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2006,false,,,,,,,,,,,,,2107765,,,,,,"2,107,765",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2006,false,,,,,,,,,,,,,2600000,,,,,,"2,600,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2006,false,,,,,,,,,,,,,282024,,,,,,"282,024",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2006,false,,,,,,,,,,,,,3935247,,,,,,"3,935,247",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2006,false,,,,,,,,,,,,,401397,,,,,,"401,397",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2006,false,,,,,,,,,,,,,45000,,,,,,"45,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2006,false,,,,,,,,,,,,,5000,,,,,,"5,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2006,false,,,,,,,,,,,,,523780,,,,,,"523,780",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2006,false,,,,,,,,,,,,,674219,,,,,,"674,219",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2006,false,,,,,,,,,,,,,770124,,,,,,"770,124",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2006,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GIN,Guinea,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,UGA,Uganda,Year,2005,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2005,false,,,,,,,,,,,,,1082089,,,,,,"1,082,089",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2005,false,,,,,,,,,,,,,12000,,,,,,"12,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2005,false,,,,,,,,,,,,,12175,,,,,,"12,175",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2005,false,,,,,,,,,,,,,132000,,,,,,"132,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GMB,Gambia,Year,2005,false,,,,,,,,,,,,,18402,,,,,,"18,402",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NER,Niger,Year,2005,false,,,,,,,,,,,,,2229980,,,,,,"2,229,980",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2005,false,,,,,,,,,,,,,2618488,,,,,,"2,618,488",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,SEN,Senegal,Year,2005,false,,,,,,,,,,,,,245782,,,,,,"245,782",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,BRA,Brazil,Year,2005,false,,,,,,,,,,,,,25000,,,,,,"25,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2005,false,,,,,,,,,,,,,282024,,,,,,"282,024",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MLI,Mali,Year,2005,false,,,,,,,,,,,,,3650000,,,,,,"3,650,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2005,false,,,,,,,,,,,,,4990733,,,,,,"4,990,733",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2005,false,,,,,,,,,,,,,471948,,,,,,"471,948",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2005,false,,,,,,,,,,,,,5000,,,,,,"5,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2005,false,,,,,,,,,,,,,528,,,,,,528,,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2005,false,,,,,,,,,,,,,6000,,,,,,"6,000",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2005,false,,,,,,,,,,,,,7533,,,,,,"7,533",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GHA,Ghana,Year,2005,false,,,,,,,,,,,,,796378,,,,,,"796,378",,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,DZA,Algeria,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BEN,Benin,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BWA,Botswana,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,BDI,Burundi,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TCD,Chad,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,CHN,China,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,IND,India,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,KEN,Kenya,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MWI,Malawi,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AMR,Americas,Country,MEX,Mexico,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2016-08-08T04:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,NAM,Namibia,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,TGO,Togo,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
+NTD_8,Number of people who received treatment with antibiotics for trachoma,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2005,false,,,,,,,,,,,,,,,,,,,No data,827,,EN,2014-11-12T05:00:00.000Z
