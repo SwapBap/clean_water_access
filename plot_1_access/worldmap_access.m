@@ -53,9 +53,6 @@ function plot_map()
     % Set Title
     title("Global Access to Improved Water Sources (Black Means No Data)");
         
-
-    
-    
 end
 
 % Loads the washdata
