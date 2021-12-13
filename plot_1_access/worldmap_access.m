@@ -1,11 +1,14 @@
 % Plot 1 - Plots a world map using washdata to show access to improved
 % water sources.
 % Associated files : Countries.* , WASHDATA_BASIC_ACCESS_2020.csv.
+% Primary Author : Lina Adkins
 
+% Entry Point
 plot_map();
 
 function plot_map()
 
+    % Define filenames
     washdata_access_file = "WASHDATA_BASIC_ACCESS_2020.csv";
     countries_shapefile = "Countries.shp";
 
@@ -13,16 +16,20 @@ function plot_map()
     map = worldmap('World');
     countries = shaperead(countries_shapefile, 'UseGeoCoords', true);
 
+    % Load washdata from function
     data = load_washdata(washdata_access_file);
     
     % Loop through countries in shape file and fill them with access info
+    % RUBRIC #7 Shows  use of For/While Loops
     for i=1:length(countries)
         
         % Query Table For Access Info
+        % RUBRIC #8 Work With Data as Array
         idx = data.ISO3 == countries(i).ISO_A3 & data.YEAR == 2020;
         access = data(idx,:).PERCENT_BASIC_ACCESS;
         
         % Provide filler values for non-existing data
+        % Rubric #6 - Conditional Statements
         if(isempty(access))
            access = -1;
         end
@@ -57,6 +64,7 @@ end
 
 % Loads the washdata
 function data = load_washdata(filename)
+
     % Set up the Import Options and import the data
     opts = delimitedTextImportOptions("NumVariables", 4);
 
@@ -76,5 +84,7 @@ function data = load_washdata(filename)
     opts = setvaropts(opts, ["COUNTRY", "ISO3"], "EmptyFieldRule", "auto");
 
     % Import the data
+    % Rubric #3 - Reading data from excel into matlab, xlsread is
+    % deprecated and replaced by readtable.
     data = readtable(filename, opts);
 end

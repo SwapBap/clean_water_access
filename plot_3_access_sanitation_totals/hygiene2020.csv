@@ -1,0 +1,83 @@
+ISO3,Country,Residence Type,Service Type,Year,Coverage,Population,Service level
+AFG,Afghanistan,total,Hygiene,2020,38.11505,14837556.27,Basic service
+AGO,Angola,total,Hygiene,2020,27.09419,8904850.879,Basic service
+ARM,Armenia,total,Hygiene,2020,94.71515,2806631.531,Basic service
+BDI,Burundi,total,Hygiene,2020,6.19518,736654.7533,Basic service
+BEN,Benin,total,Hygiene,2020,12.03316,1458804.084,Basic service
+BFA,Burkina Faso,total,Hygiene,2020,9.00897,1883169.869,Basic service
+BGD,Bangladesh,total,Hygiene,2020,58.40395,96185117.19,Basic service
+BLZ,Belize,total,Hygiene,2020,90.27548,358954.2769,Basic service
+BOL,Bolivia (Plurinational State of),total,Hygiene,2020,26.93653,3144308.699,Basic service
+BTN,Bhutan,total,Hygiene,2020,91.68615,707461.3191,Basic service
+CAF,Central African Republic,total,Hygiene,2020,21.50713,1038743.618,Basic service
+CIV,Côte d’Ivoire,total,Hygiene,2020,21.62138,5703346.118,Basic service
+CMR,Cameroon,total,Hygiene,2020,36.41861,9667635.961,Basic service
+COD,Democratic Republic of the Congo,total,Hygiene,2020,19.17279,17171423.17,Basic service
+COL,Colombia,total,Hygiene,2020,68.02786,34614536.57,Basic service
+CRI,Costa Rica,total,Hygiene,2020,85.91587,4376652.154,Basic service
+CUB,Cuba,total,Hygiene,2020,92.20205,10443372.46,Basic service
+DOM,Dominican Republic,total,Hygiene,2020,46.90198,5087881.549,Basic service
+DZA,Algeria,total,Hygiene,2020,84.62598,37109375.87,Basic service
+ECU,Ecuador,total,Hygiene,2020,87.17496,15380331.04,Basic service
+EGY,Egypt,total,Hygiene,2020,89.83093,91927953.51,Basic service
+ETH,Ethiopia,total,Hygiene,2020,8.17269,9395619.474,Basic service
+GEO,Georgia,total,Hygiene,2020,91.69696,3657952.152,Basic service
+GHA,Ghana,total,Hygiene,2020,41.54222,12908391.9,Basic service
+GIN,Guinea,total,Hygiene,2020,20.47696,2689196.461,Basic service
+GMB,Gambia,total,Hygiene,2020,17.83862,431099.6253,Basic service
+GNB,Guinea-Bissau,total,Hygiene,2020,18.11498,356502.5407,Basic service
+HTI,Haiti,total,Hygiene,2020,22.37304,2551093.661,Basic service
+IDN,Indonesia,total,Hygiene,2020,94.10707,257405055.7,Basic service
+IND,India,total,Hygiene,2020,67.78893,935490166.1,Basic service
+IRQ,Iraq,total,Hygiene,2020,97.38824,39171988.75,Basic service
+KAZ,Kazakhstan,total,Hygiene,2020,0.23569,44254.5681,No handwashing facility
+KEN,Kenya,total,Hygiene,2020,26.75592,14387007.82,Basic service
+KGZ,Kyrgyzstan,total,Hygiene,2020,99.84921,6514353.497,Basic service
+KHM,Cambodia,total,Hygiene,2020,73.87465,12351082.13,Basic service
+KIR,Kiribati,total,Hygiene,2020,55.57538,66382.56484,Basic service
+LAO,Lao People's Democratic Republic,total,Hygiene,2020,55.62991,4047384.967,Basic service
+LSO,Lesotho,total,Hygiene,2020,5.51014,118041.0118,Basic service
+MDG,Madagascar,total,Hygiene,2020,26.56997,7357494.58,Basic service
+MDV,Maldives,total,Hygiene,2020,95.82998,518001.3134,Basic service
+MHL,Marshall Islands,total,Hygiene,2020,85.06835,50355.35677,Basic service
+MKD,North Macedonia,total,Hygiene,2020,99.67369,2076581.601,Basic service
+MLI,Mali,total,Hygiene,2020,17.02577,3447860.005,Basic service
+MMR,Myanmar,total,Hygiene,2020,74.50769,40539478.54,Basic service
+MNE,Montenegro,total,Hygiene,2020,99.2421,623301.9113,Basic service
+MNG,Mongolia,total,Hygiene,2020,86.35624,2831009.834,Basic service
+MWI,Malawi,total,Hygiene,2020,8.25862,1579871.188,Basic service
+NER,Niger,total,Hygiene,2020,23.48585,5685133.342,Basic service
+NGA,Nigeria,total,Hygiene,2020,33.19749,68433180.83,Basic service
+NIU,Niue,total,Hygiene,2020,21.33333,345.17334,No handwashing facility
+NPL,Nepal,total,Hygiene,2020,62.1436,18106661.79,Basic service
+OMN,Oman,total,Hygiene,2020,97.4,4973849.828,Basic service
+PAK,Pakistan,total,Hygiene,2020,80.06123,176849122.3,Basic service
+PHL,Philippines,total,Hygiene,2020,81.71248,89541420.66,Basic service
+PNG,Papua New Guinea,total,Hygiene,2020,29.76601,2663173.086,Basic service
+PRK,Democratic People's Republic of Korea,total,Hygiene,2020,0,0,No handwashing facility
+PRY,Paraguay,total,Hygiene,2020,80.15306,5716941.11,Basic service
+PSE,State of Palestine,total,Hygiene,2020,92.05564,4696140.958,Basic service
+RWA,Rwanda,total,Hygiene,2020,4.64989,602263.9033,Basic service
+SDN,Sudan,total,Hygiene,2020,12.51129,5486109.516,Basic service
+SEN,Senegal,total,Hygiene,2020,22.01142,3685577.246,Basic service
+SLE,Sierra Leone,total,Hygiene,2020,21.09711,1682913.229,Basic service
+SOM,Somalia,total,Hygiene,2020,24.94546,3964635.808,Basic service
+STP,Sao Tome and Principe,total,Hygiene,2020,55.4399,121502.6437,Basic service
+SUR,Suriname,total,Hygiene,2020,72.10366,422984.5577,Basic service
+SWZ,Eswatini,total,Hygiene,2020,24.31107,282048.331,Basic service
+SYR,Syrian Arab Republic,total,Hygiene,2020,82.8226,14494498.03,Basic service
+TCD,Chad,total,Hygiene,2020,25.30453,4156485.97,Basic service
+TGO,Togo,total,Hygiene,2020,17.14669,1419529.053,Basic service
+THA,Thailand,total,Hygiene,2020,84.96759,59307359.72,Basic service
+TJK,Tajikistan,total,Hygiene,2020,72.86508,6949610.512,Basic service
+TKM,Turkmenistan,total,Hygiene,2020,100,6031187,Basic service
+TLS,Timor-Leste,total,Hygiene,2020,28.40753,374536.8112,Basic service
+TON,Tonga,total,Hygiene,2020,69.53998,73501.67378,Basic service
+TUN,Tunisia,total,Hygiene,2020,84.11334,9941034.114,Basic service
+TZA,United Republic of Tanzania,total,Hygiene,2020,48.44392,28937592.96,Basic service
+UGA,Uganda,total,Hygiene,2020,22.59048,10333109.84,Basic service
+VNM,Viet Nam,total,Hygiene,2020,86.06633,83775748.84,Basic service
+WSM,Samoa,total,Hygiene,2020,78.8,156347.08,Basic service
+ZAF,South Africa,total,Hygiene,2020,44.3697,26315086.09,Basic service
+ZMB,Zambia,total,Hygiene,2020,17.93393,3296965.168,Basic service
+ZWE,Zimbabwe,total,Hygiene,2020,42.42611,6305761.928,Basic service
